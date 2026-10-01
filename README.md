@@ -19,9 +19,9 @@ No installer, no dependencies, and no admin unless the tool says it needs it.
 ## Notes
 
 - Portable. Nothing is written outside your user profile.
-- The source sits in this repo next to the build.
+- Prebuilt binary only. The source is not published in this repository.
 - Questions and bug reports: the [Discord](https://discord.gg/QtyBucygQ6), in `#help` and `#bug-reports`.
 
 ## Disclaimer
 
-This is a system tweak. It changes real Windows settings. Read what it does before running it, and use the tool's own restore option if something behaves unexpectedly. Provided as is, with no warranty.
+Provided as is, with no warranty. It only reads your machine - it writes nothing and changes nothing.
